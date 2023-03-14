@@ -12,7 +12,3 @@ object Exercise1{
     val myList3:Array[Int] = Array(1,2,3)
     println(myList3.mkString("Array (",",",")"))
 
-
-  }
-  main()
-  }
