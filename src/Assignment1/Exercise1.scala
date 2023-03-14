@@ -13,4 +13,6 @@ object Exercise1{
     println(myList3.mkString("Array (",",",")"))
 
 
-  }}
+  }
+  main()
+  }
